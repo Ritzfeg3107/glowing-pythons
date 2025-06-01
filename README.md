@@ -1,15 +1,16 @@
 # Project Name
-
+Glowing Pythons
 ## Overview
-Brief description of what your project does.
+This repository contains personal Python projects, scripts, and practice code as I grow and explore the language.
 
-## Features
-- Feature 1
-- Feature 2
-- ...
+## Contents
+- Beginner scripts
+- Utility tools
+- Algorithm practice
+- Projects from CS50x and other courses
 
-## Getting Started
-Instructions to run your code locally:
+## How to run 
+Clone the repository:
 
 ```bash
-python main.py
+https://github.com/Ritzfeg3107/glowing-pythons.git
